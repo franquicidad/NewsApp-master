@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="search">Search</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="please_enter_the_search_topic">Please enter the Search topic</string>
+    <string name="enter_your_headline_search">Enter your Headline search</string>
+
+</resources>
